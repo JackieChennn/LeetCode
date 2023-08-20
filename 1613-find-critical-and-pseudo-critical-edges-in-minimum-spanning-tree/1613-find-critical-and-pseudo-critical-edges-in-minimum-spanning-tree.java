@@ -1,25 +1,23 @@
 class Solution {
     public List<List<Integer>> findCriticalAndPseudoCriticalEdges(int n, int[][] edges) {
-        // Add index to edges for tracking
         int m = edges.length;
-        int[][] newEdges = new int[m][4];
-
+        // Add index to edges for tracking
+        int[][] edgesWithIndex = new int[m][4];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < 3; j++) {
-                newEdges[i][j] = edges[i][j];
+                edgesWithIndex[i][j] = edges[i][j];
             }
-            newEdges[i][3] = i;
+            edgesWithIndex[i][3] = i;
         }
-
         // Sort edges based on weight
-        Arrays.sort(newEdges, Comparator.comparingInt(edge -> edge[2]));
+        Arrays.sort(edgesWithIndex, (a, b) -> a[2] - b[2]);
 
-        // Find MST weight using union-find
-        UnionFind ufStd = new UnionFind(n);
+        // Find MST weight using Kruskal's Algo
+        DisjointSet dsStd = new DisjointSet(n);
         int stdWeight = 0;
-        for (int[] edge : newEdges) {
-            if (ufStd.union(edge[0], edge[1])) {
-                stdWeight += edge[2];
+        for (int[] edge : edgesWithIndex) {
+            if (dsStd.Union(edge[0], edge[1])) {
+                stdWeight += edge[2]; 
             }
         }
 
@@ -31,76 +29,74 @@ class Solution {
         // Check each edge for critical and pseudo-critical
         for (int i = 0; i < m; i++) {
             // Ignore this edge and calculate MST weight
-            UnionFind ufIgnore = new UnionFind(n);
+            DisjointSet dsIgnore = new DisjointSet(n);
             int ignoreWeight = 0;
             for (int j = 0; j < m; j++) {
-                if (i != j && ufIgnore.union(newEdges[j][0], newEdges[j][1])) {
-                    ignoreWeight += newEdges[j][2];
+                if (i != j && dsIgnore.Union(edgesWithIndex[j][0], edgesWithIndex[j][1])) {
+                    ignoreWeight += edgesWithIndex[j][2];
                 }
             }
-            // If the graph is disconnected or the total weight is greater, 
-            // the edge is critical
-            if (ufIgnore.maxSize < n || ignoreWeight > stdWeight) {
-                result.get(0).add(newEdges[i][3]);
+            // If the graph is disconnected or the total weight is greater, the edge is critical
+            if (dsIgnore.maxSize < n || ignoreWeight > stdWeight) {
+                result.get(0).add(edgesWithIndex[i][3]);
             } else {
-                // Force this edge and calculate MST weight
-                UnionFind ufForce = new UnionFind(n);
-                ufForce.union(newEdges[i][0], newEdges[i][1]);
-                int forceWeight = newEdges[i][2];
+                // if an edge is not critical, then check whether it is pseudo-critical
+                DisjointSet dsForce = new DisjointSet(n);
+                dsForce.Union(edgesWithIndex[i][0], edgesWithIndex[i][1]);
+                int forceWeight = edgesWithIndex[i][2];
                 for (int j = 0; j < m; j++) {
-                    if (i != j && ufForce.union(newEdges[j][0], newEdges[j][1])) {
-                        forceWeight += newEdges[j][2];
+                    if (i != j && dsForce.Union(edgesWithIndex[j][0], edgesWithIndex[j][1])) {
+                        forceWeight += edgesWithIndex[j][2];
                     }
                 }
                 // If total weight is the same, the edge is pseudo-critical
                 if (forceWeight == stdWeight) {
-                    result.get(1).add(newEdges[i][3]);
+                    result.get(1).add(edgesWithIndex[i][3]);
                 }
             }
         }
-
         return result;
     }
+}
 
-    class UnionFind {
-        int[] parent;
-        int[] size;
-        int maxSize;
+class DisjointSet {
+    int[] parent;
+    int[] size;
+    int maxSize;
 
-        public UnionFind(int n) {
-            parent = new int[n];
-            size = new int[n];
-            maxSize = 1;
-            for (int i = 0; i < n; i++) {
-                parent[i] = i;
-                size[i] = 1;
-            }
+    public DisjointSet(int n) {
+        parent = new int[n];
+        size = new int[n];
+        maxSize = 1;
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
+    }
 
-        public int find(int x) {
-            // Finds the root of x
-            if (x != parent[x]) {
-                parent[x] = find(parent[x]);
-            }
-            return parent[x];
+    public int find(int x) {
+        // Finds the root of x
+        if (x != parent[x]) {
+            parent[x] = find(parent[x]);
         }
+        return parent[x];
+    }
 
-        public boolean union(int x, int y) {
-            // Connects x and y
-            int rootX = find(x);
-            int rootY = find(y);
-            if (rootX != rootY) {
-                if (size[rootX] < size[rootY]) {
-                    int temp = rootX;
-                    rootX = rootY;
-                    rootY = temp;
-                }
-                parent[rootY] = rootX;
-                size[rootX] += size[rootY];
-                maxSize = Math.max(maxSize, size[rootX]);
-                return true;
+    public boolean Union(int x, int y) {
+        // Connects x and y
+        int rootX = find(x);
+        int rootY = find(y);
+        if (rootX != rootY) {
+            if (size[rootX] < size[rootY]) {
+                int temp = rootX;
+                rootX = rootY;
+                rootY = temp;
             }
-            return false;
+            parent[rootY] = rootX;
+            size[rootX] += size[rootY];
+            maxSize = Math.max(maxSize, size[rootX]);
+            return true;
         }
+        return false;
     }
 }
