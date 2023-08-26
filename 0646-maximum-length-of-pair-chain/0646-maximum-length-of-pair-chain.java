@@ -4,18 +4,14 @@ class Solution {
         if (n == 1) {
             return 1;
         }
-        // dp[i] is the longest length of chain starting from the i-th pair
-        int[] dp = new int[n];
-        Arrays.fill(dp, 1);
-        Arrays.sort(pairs, (a, b) -> a[0] - b[0]);
-        int result = 1;
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (pairs[j][1] < pairs[i][0]) {
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
-                }
+        Arrays.sort(pairs, (a, b) -> a[1] - b[1]);
+        int currTail = -1001;
+        int result = 0;
+        for (int[] pair : pairs) {
+            if (pair[0] > currTail) {
+                result++;
+                currTail = pair[1];
             }
-            result = Math.max(dp[i], result);
         }
         return result;
     }
