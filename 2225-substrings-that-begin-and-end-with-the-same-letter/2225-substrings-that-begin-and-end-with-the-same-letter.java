@@ -1,12 +1,11 @@
 class Solution {
     public long numberOfSubstrings(String s) {
-        // letter -> frequency
-        Map<Character, Long> hm = new HashMap<>();
+        long[] counts = new long[26];
         for (char ch : s.toCharArray()) {
-            hm.put(ch, hm.getOrDefault(ch, 0L) + 1);
+            ++counts[ch - 'a'];
         }
         long result = 0;
-        for (long count : hm.values()) {
+        for (long count : counts) {
             result += (count + 1) * count / 2;
         }
         return result;
