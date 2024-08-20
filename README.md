@@ -95,4 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
