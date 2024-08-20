@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
