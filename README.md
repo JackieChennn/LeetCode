@@ -123,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0320-generalized-abbreviation](https://github.com/JackieChennn/LeetCode/tree/master/0320-generalized-abbreviation) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/JackieChennn/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
