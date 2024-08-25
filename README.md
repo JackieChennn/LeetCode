@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/JackieChennn/LeetCode/tree/master/0726-number-of-atoms) |
 ## Sorting
 |  |
@@ -86,11 +87,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
