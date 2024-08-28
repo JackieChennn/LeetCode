@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0726-number-of-atoms](https://github.com/JackieChennn/LeetCode/tree/master/0726-number-of-atoms) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Math
@@ -65,12 +66,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Counting Sort
 |  |
@@ -117,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JackieChennn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
