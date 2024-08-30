@@ -37,7 +37,6 @@ class Solution {
 
     private int dijkstraHelper(int source, int destination, List<int[]>[] adjacencyList, int n) {
         int[] minDistance = new int[n];
-        boolean[] visited = new boolean[n];
         // pq -> (node#, this node's shortest distance to source)
         PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[1] - b[1]);
         Arrays.fill(minDistance, INF);
@@ -47,9 +46,6 @@ class Solution {
             int[] curr = pq.poll();
             int node = curr[0];
             int distance = curr[1];
-            // if (distance > minDistance[node]) {
-            //     continue;
-            // }
             for (int[] neighborInfo : adjacencyList[node]) {
                 int neighbor = neighborInfo[0];
                 int weight = neighborInfo[1];
