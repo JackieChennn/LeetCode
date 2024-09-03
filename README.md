@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0320-generalized-abbreviation](https://github.com/JackieChennn/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0564-find-the-closest-palindrome](https://github.com/JackieChennn/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/JackieChennn/LeetCode/tree/master/0726-number-of-atoms) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/JackieChennn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
@@ -180,5 +181,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/JackieChennn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
