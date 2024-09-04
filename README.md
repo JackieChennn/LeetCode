@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/JackieChennn/LeetCode/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/JackieChennn/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JackieChennn/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0906-walking-robot-simulation](https://github.com/JackieChennn/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/JackieChennn/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JackieChennn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
