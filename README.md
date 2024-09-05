@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/JackieChennn/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/JackieChennn/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/JackieChennn/LeetCode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/JackieChennn/LeetCode/tree/master/2155-find-missing-observations) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Prefix Sum
 |  |
@@ -186,4 +188,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JackieChennn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/JackieChennn/LeetCode/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
