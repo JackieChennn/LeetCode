@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/JackieChennn/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/JackieChennn/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
+| [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/JackieChennn/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [2155-find-missing-observations](https://github.com/JackieChennn/LeetCode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JackieChennn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/JackieChennn/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JackieChennn/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JackieChennn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/JackieChennn/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
