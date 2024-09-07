@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/JackieChennn/LeetCode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,11 +115,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/JackieChennn/LeetCode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JackieChennn/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -127,11 +130,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/JackieChennn/LeetCode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JackieChennn/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/JackieChennn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JackieChennn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/JackieChennn/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JackieChennn/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
