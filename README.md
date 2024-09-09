@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/JackieChennn/LeetCode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JackieChennn/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Prefix Sum
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0725-split-linked-list-in-parts](https://github.com/JackieChennn/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/JackieChennn/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
+| [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JackieChennn/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -201,4 +204,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JackieChennn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/JackieChennn/LeetCode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
