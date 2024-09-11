@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0320-generalized-abbreviation](https://github.com/JackieChennn/LeetCode/tree/master/0320-generalized-abbreviation) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/JackieChennn/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |
