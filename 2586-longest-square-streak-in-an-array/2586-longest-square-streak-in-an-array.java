@@ -8,8 +8,7 @@ class Solution {
             root = (int) Math.sqrt(num);
             if (root * root == num && hm.containsKey(root)) {
                 hm.put(num, hm.get(root) + 1);
-                hm.remove(root);
-            } else if (!hm.containsKey(num)){
+            } else {
                 hm.put(num, 1);
             }
         }
