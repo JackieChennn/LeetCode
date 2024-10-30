@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/JackieChennn/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JackieChennn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JackieChennn/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Array
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/JackieChennn/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JackieChennn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JackieChennn/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JackieChennn/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JackieChennn/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Counting Sort
 |  |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/JackieChennn/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JackieChennn/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JackieChennn/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
