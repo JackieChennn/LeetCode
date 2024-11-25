@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0265-paint-house-ii](https://github.com/JackieChennn/LeetCode/tree/master/0265-paint-house-ii) |
 | [0539-minimum-time-difference](https://github.com/JackieChennn/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0787-sliding-puzzle](https://github.com/JackieChennn/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0906-walking-robot-simulation](https://github.com/JackieChennn/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/JackieChennn/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JackieChennn/LeetCode/tree/master/0101-symmetric-tree) |
+| [0787-sliding-puzzle](https://github.com/JackieChennn/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JackieChennn/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/JackieChennn/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JackieChennn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/JackieChennn/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
