@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/JackieChennn/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/JackieChennn/LeetCode/tree/master/0726-number-of-atoms) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieChennn/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Math
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieChennn/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JackieChennn/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JackieChennn/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/JackieChennn/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JackieChennn/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
+| [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/JackieChennn/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -252,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JackieChennn/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/JackieChennn/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -279,4 +284,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JackieChennn/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 <!---LeetCode Topics End-->
