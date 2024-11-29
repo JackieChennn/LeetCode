@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JackieChennn/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/JackieChennn/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JackieChennn/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/JackieChennn/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/JackieChennn/LeetCode/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JackieChennn/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,21 +248,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/JackieChennn/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/JackieChennn/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/JackieChennn/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/JackieChennn/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Graph
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JackieChennn/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/JackieChennn/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JackieChennn/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/JackieChennn/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Simulation
 |  |
