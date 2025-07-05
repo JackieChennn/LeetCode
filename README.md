@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/JackieChennn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JackieChennn/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/JackieChennn/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JackieChennn/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JackieChennn/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1149-intersection-of-three-sorted-arrays](https://github.com/JackieChennn/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1240-stone-game-ii](https://github.com/JackieChennn/LeetCode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JackieChennn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JackieChennn/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JackieChennn/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JackieChennn/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JackieChennn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/JackieChennn/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JackieChennn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JackieChennn/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/JackieChennn/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Tree
